@@ -8,18 +8,29 @@
 
 /* Begin PBXBuildFile section */
 		3W6O0CZEDFN8FUMGWZD4EOBH /* HogeHogesaaPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = W4UYDFNOEDHK8ZOTHONGWVMA /* HogeHogesaaPresenter.swift */; };
+		53AY1LOBO2RQ834Y9831488N /* HogeHogesaaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = PPYJ9YS3NN18FUGC6O2MABV1 /* HogeHogesaaView.swift */; };
 		99CF4694204590C500F5EC1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF4693204590C500F5EC1C /* AppDelegate.swift */; };
 		99CF4696204590C500F5EC1C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF4695204590C500F5EC1C /* ViewController.swift */; };
 		99CF4699204590C500F5EC1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99CF4697204590C500F5EC1C /* Main.storyboard */; };
 		99CF469B204590C500F5EC1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99CF469A204590C500F5EC1C /* Assets.xcassets */; };
 		99CF469E204590C500F5EC1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99CF469C204590C500F5EC1C /* LaunchScreen.storyboard */; };
+		9BR7W926PS1SIWH2EOPQO61K /* HogeHogesaaDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZZHE10NFYELPLCS9CD4JG5FP /* HogeHogesaaDataStore.swift */; };
+		9DAT4F6UAPHDNSKKW41HIR40 /* HogeHogesaaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = Q3EF4AJ6EBO5L5SLVFIZCHVC /* HogeHogesaaBuilder.swift */; };
+		9GRGHBFLRI2EQSPGSJBXRTF4 /* HogeHogesaaUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58DRD8JQGKNZM19UM5IG2XJG /* HogeHogesaaUseCase.swift */; };
+		AL9MLTDUWOBZNUNTLMMLQWQ4 /* HogeHogesaaPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BS1OSNM9EPVMIS4OKN4HMT3L /* HogeHogesaaPresenter.swift */; };
 		CMEN2SCS4HUEFP28UM9DMCB6 /* HogeHogesaaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = G90348ANVV0AKWBZ9WJ5C24H /* HogeHogesaaView.swift */; };
+		EUAAU3FVM1PMT6BURSBHIQ5E /* HogeHogesaaTranslator.swift in Sources */ = {isa = PBXBuildFile; fileRef = J5YM0P59WE4SA61BIL9DM7VG /* HogeHogesaaTranslator.swift */; };
+		EZZY4D7P53DOBPUG1O91G1PB /* HogeHogesaaEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = Q7WNI9WFI7BHY1VUC79NDZ6L /* HogeHogesaaEntity.swift */; };
 		JBZRUD46X5EQP22S84RHZ0Y6 /* HogeHogesaaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4SXJUZ7R8DOH0YW0RURYW81F /* HogeHogesaaBuilder.swift */; };
+		JEUBH6O9WHG6CCOXN9THACZT /* HogeHogesaaWireframe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516RMFH19URKG9KY0LPEW0MB /* HogeHogesaaWireframe.swift */; };
+		KIWVU496HGA4H3146A3VZN1N /* HogeHogesaaRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4S1YQN1YQI9H4NXSLDTA4GGU /* HogeHogesaaRepository.swift */; };
+		MG6KC65VYIA1ZY0O6VHH23SJ /* HogeHogesaaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9JTEPD98LXLHSDT5O1CQ6GQ /* HogeHogesaaViewController.swift */; };
 		NU9P4H292PI8SFJHICCRA6GQ /* HogeHogesaaDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = NQOLFURYXHF24HB3MMG1C60S /* HogeHogesaaDataStore.swift */; };
 		O333690GNSYICIHFSWOPFE01 /* HogeHogesaaEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8KH2ZNL30XCVXI2ZJNUB096V /* HogeHogesaaEntity.swift */; };
 		OKOZO0GU3ZZEXGXXP7BR8IJ6 /* HogeHogesaaUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = UAS3X6YTGMALRFTZ6PNMPN69 /* HogeHogesaaUseCase.swift */; };
 		RYT00C80Z3PVV8JSLJ0KAV3H /* HogeHogesaaModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = GFTGFEWD5W60NI51WKKKHVTK /* HogeHogesaaModel.swift */; };
 		SHJR195CB8IPM4GLQWU397XQ /* HogeHogesaaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = WO2LMOI6ABEH4IP925S9VYXF /* HogeHogesaaViewController.swift */; };
+		UY0DPVWON0QBGX4E5GV13SN8 /* HogeHogesaaModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = LEZO85GHLVYKI4USLWWL4EP4 /* HogeHogesaaModel.swift */; };
 		W5A7FDAJ592FRTR4B8379LX1 /* HogeHogesaaRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFJY2LYFWLJGXYUYP4ZNR4QK /* HogeHogesaaRepository.swift */; };
 		WJWGDAJVKD85GXODHRJM6AZT /* HogeHogesaaWireframe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CSMIYL34Q9BR8ETRDZC02XF /* HogeHogesaaWireframe.swift */; };
 		WXVEOYQ5Y9QSJW764DBNXVP6 /* HogeHogesaaTranslator.swift in Sources */ = {isa = PBXBuildFile; fileRef = TCDMVMJOAYPGFFKPXCJMPD1W /* HogeHogesaaTranslator.swift */; };
@@ -27,7 +38,10 @@
 
 /* Begin PBXFileReference section */
 		1CSMIYL34Q9BR8ETRDZC02XF /* HogeHogesaaWireframe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaWireframe.swift; sourceTree = "<group>"; };
+		4S1YQN1YQI9H4NXSLDTA4GGU /* HogeHogesaaRepository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaRepository.swift; sourceTree = "<group>"; };
 		4SXJUZ7R8DOH0YW0RURYW81F /* HogeHogesaaBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaBuilder.swift; sourceTree = "<group>"; };
+		516RMFH19URKG9KY0LPEW0MB /* HogeHogesaaWireframe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaWireframe.swift; sourceTree = "<group>"; };
+		58DRD8JQGKNZM19UM5IG2XJG /* HogeHogesaaUseCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaUseCase.swift; sourceTree = "<group>"; };
 		8KH2ZNL30XCVXI2ZJNUB096V /* HogeHogesaaEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaEntity.swift; sourceTree = "<group>"; };
 		99CF4690204590C500F5EC1C /* KuriTemplateYM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KuriTemplateYM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99CF4693204590C500F5EC1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,14 +50,22 @@
 		99CF469A204590C500F5EC1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99CF469D204590C500F5EC1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99CF469F204590C500F5EC1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BS1OSNM9EPVMIS4OKN4HMT3L /* HogeHogesaaPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaPresenter.swift; sourceTree = "<group>"; };
+		E9JTEPD98LXLHSDT5O1CQ6GQ /* HogeHogesaaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaViewController.swift; sourceTree = "<group>"; };
 		FFJY2LYFWLJGXYUYP4ZNR4QK /* HogeHogesaaRepository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaRepository.swift; sourceTree = "<group>"; };
 		G90348ANVV0AKWBZ9WJ5C24H /* HogeHogesaaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaView.swift; sourceTree = "<group>"; };
 		GFTGFEWD5W60NI51WKKKHVTK /* HogeHogesaaModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaModel.swift; sourceTree = "<group>"; };
+		J5YM0P59WE4SA61BIL9DM7VG /* HogeHogesaaTranslator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaTranslator.swift; sourceTree = "<group>"; };
+		LEZO85GHLVYKI4USLWWL4EP4 /* HogeHogesaaModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaModel.swift; sourceTree = "<group>"; };
 		NQOLFURYXHF24HB3MMG1C60S /* HogeHogesaaDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaDataStore.swift; sourceTree = "<group>"; };
+		PPYJ9YS3NN18FUGC6O2MABV1 /* HogeHogesaaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaView.swift; sourceTree = "<group>"; };
+		Q3EF4AJ6EBO5L5SLVFIZCHVC /* HogeHogesaaBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaBuilder.swift; sourceTree = "<group>"; };
+		Q7WNI9WFI7BHY1VUC79NDZ6L /* HogeHogesaaEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaEntity.swift; sourceTree = "<group>"; };
 		TCDMVMJOAYPGFFKPXCJMPD1W /* HogeHogesaaTranslator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaTranslator.swift; sourceTree = "<group>"; };
 		UAS3X6YTGMALRFTZ6PNMPN69 /* HogeHogesaaUseCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaUseCase.swift; sourceTree = "<group>"; };
 		W4UYDFNOEDHK8ZOTHONGWVMA /* HogeHogesaaPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaPresenter.swift; sourceTree = "<group>"; };
 		WO2LMOI6ABEH4IP925S9VYXF /* HogeHogesaaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaViewController.swift; sourceTree = "<group>"; };
+		ZZHE10NFYELPLCS9CD4JG5FP /* HogeHogesaaDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HogeHogesaaDataStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				1CSMIYL34Q9BR8ETRDZC02XF /* HogeHogesaaWireframe.swift */,
+				516RMFH19URKG9KY0LPEW0MB /* HogeHogesaaWireframe.swift */,
 			);
 			path = Wireframe;
 			sourceTree = "<group>";
@@ -96,6 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				8KH2ZNL30XCVXI2ZJNUB096V /* HogeHogesaaEntity.swift */,
+				Q7WNI9WFI7BHY1VUC79NDZ6L /* HogeHogesaaEntity.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -134,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				FFJY2LYFWLJGXYUYP4ZNR4QK /* HogeHogesaaRepository.swift */,
+				4S1YQN1YQI9H4NXSLDTA4GGU /* HogeHogesaaRepository.swift */,
 			);
 			path = Repository;
 			sourceTree = "<group>";
@@ -142,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				G90348ANVV0AKWBZ9WJ5C24H /* HogeHogesaaView.swift */,
+				PPYJ9YS3NN18FUGC6O2MABV1 /* HogeHogesaaView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -160,6 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				UAS3X6YTGMALRFTZ6PNMPN69 /* HogeHogesaaUseCase.swift */,
+				58DRD8JQGKNZM19UM5IG2XJG /* HogeHogesaaUseCase.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -168,6 +195,7 @@
 			isa = PBXGroup;
 			children = (
 				W4UYDFNOEDHK8ZOTHONGWVMA /* HogeHogesaaPresenter.swift */,
+				BS1OSNM9EPVMIS4OKN4HMT3L /* HogeHogesaaPresenter.swift */,
 			);
 			path = Presenter;
 			sourceTree = "<group>";
@@ -194,6 +222,7 @@
 			isa = PBXGroup;
 			children = (
 				TCDMVMJOAYPGFFKPXCJMPD1W /* HogeHogesaaTranslator.swift */,
+				J5YM0P59WE4SA61BIL9DM7VG /* HogeHogesaaTranslator.swift */,
 			);
 			path = Translator;
 			sourceTree = "<group>";
@@ -202,6 +231,7 @@
 			isa = PBXGroup;
 			children = (
 				GFTGFEWD5W60NI51WKKKHVTK /* HogeHogesaaModel.swift */,
+				LEZO85GHLVYKI4USLWWL4EP4 /* HogeHogesaaModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -210,6 +240,7 @@
 			isa = PBXGroup;
 			children = (
 				NQOLFURYXHF24HB3MMG1C60S /* HogeHogesaaDataStore.swift */,
+				ZZHE10NFYELPLCS9CD4JG5FP /* HogeHogesaaDataStore.swift */,
 			);
 			path = DataStore;
 			sourceTree = "<group>";
@@ -218,6 +249,7 @@
 			isa = PBXGroup;
 			children = (
 				WO2LMOI6ABEH4IP925S9VYXF /* HogeHogesaaViewController.swift */,
+				E9JTEPD98LXLHSDT5O1CQ6GQ /* HogeHogesaaViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -226,6 +258,7 @@
 			isa = PBXGroup;
 			children = (
 				4SXJUZ7R8DOH0YW0RURYW81F /* HogeHogesaaBuilder.swift */,
+				Q3EF4AJ6EBO5L5SLVFIZCHVC /* HogeHogesaaBuilder.swift */,
 			);
 			path = Builder;
 			sourceTree = "<group>";
@@ -326,6 +359,17 @@
 				3W6O0CZEDFN8FUMGWZD4EOBH /* HogeHogesaaPresenter.swift in Sources */,
 				CMEN2SCS4HUEFP28UM9DMCB6 /* HogeHogesaaView.swift in Sources */,
 				SHJR195CB8IPM4GLQWU397XQ /* HogeHogesaaViewController.swift in Sources */,
+				9DAT4F6UAPHDNSKKW41HIR40 /* HogeHogesaaBuilder.swift in Sources */,
+				JEUBH6O9WHG6CCOXN9THACZT /* HogeHogesaaWireframe.swift in Sources */,
+				9BR7W926PS1SIWH2EOPQO61K /* HogeHogesaaDataStore.swift in Sources */,
+				EZZY4D7P53DOBPUG1O91G1PB /* HogeHogesaaEntity.swift in Sources */,
+				KIWVU496HGA4H3146A3VZN1N /* HogeHogesaaRepository.swift in Sources */,
+				UY0DPVWON0QBGX4E5GV13SN8 /* HogeHogesaaModel.swift in Sources */,
+				EUAAU3FVM1PMT6BURSBHIQ5E /* HogeHogesaaTranslator.swift in Sources */,
+				9GRGHBFLRI2EQSPGSJBXRTF4 /* HogeHogesaaUseCase.swift in Sources */,
+				AL9MLTDUWOBZNUNTLMMLQWQ4 /* HogeHogesaaPresenter.swift in Sources */,
+				53AY1LOBO2RQ834Y9831488N /* HogeHogesaaView.swift in Sources */,
+				MG6KC65VYIA1ZY0O6VHH23SJ /* HogeHogesaaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
