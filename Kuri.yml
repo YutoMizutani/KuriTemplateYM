@@ -1,0 +1,5 @@
+DefaultTemplateDirectoryPath: ./KuriTemplate/
+ProjectRootPath: ./
+ProjectFileName: KuriTemplateYM.xcodeproj
+GenerateRootPath: ./KuriTemplateYM/App/
+Target: KuriTemplateYM
